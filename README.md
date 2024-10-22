@@ -11,10 +11,9 @@ This project analyzes bicycle trip data from the Lyft's Baywheels bike-sharing s
 4. Technologies Used
 5. How to Run the Project
 6. Key Insights
-7. Project Structure
-8. Next Steps
-9. Contributing
-10. License
+7. Next Steps
+8. Contributing
+9. License
 
 ### Dataset
 
@@ -64,5 +63,14 @@ cd baywheels_tripdata
 - ***The busiest time of the year***: September and October have the highest number of total rides, which are statistically the warmest months in San Francisco.
 - ***Trip Duration***: Casual users tend to have longer trip durations, often exceeding 30 minutes.
 
-### Project Structure
+### Next Steps
 
+- Incorporate external factors like weather data to understand how it impacts trip patterns.
+- Analyze bike maintenance data to correlate breakdowns with high-usage routes.
+- Automate data extraction and analysis using Python scripts.
+
+### Contributing
+Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
+
+### License
+This project is licensed under the Data License Agreement. Click [here](https://baywheels-assets.s3.amazonaws.com/data-license-agreement.html) to see details.
