@@ -17,7 +17,6 @@ This project analyzes bicycle trip data from the Lyft's Baywheels bike-sharing s
 
 ### Dataset
 
-Dataset
 The dataset used in this project contains trip data from the Baywheels bike-sharing system, collected across various months in 2022. Due to GitHub's file size limitations, only a subset of the data is available in this repository. For larger datasets, see How to Run the Project.
 
 - ***Source***: ([Baywheels Trip Data](https://s3.amazonaws.com/baywheels-data/index.html))  
